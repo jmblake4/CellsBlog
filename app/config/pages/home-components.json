@@ -1,0 +1,19 @@
+{
+  "template": {
+    "familyPath": "../../components/cells-template-empty",
+    "tag": "cells-template-empty"
+  },
+  "components": [
+    {
+      "zone": "app__main",
+      "familyPath": "../elements/my-blog",
+      "tag": "my-blog",
+      "keys": {
+        "actionsIn": {},
+        "actionsOut": {}
+      },
+      "prefs": {}
+    }
+  ],
+  "dataManagers": []
+}

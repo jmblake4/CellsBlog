@@ -1,0 +1,6 @@
+{
+	"initialUrlComponents": "config/pages/",
+	"initialSection": "home",
+	"componentsPath": "../elements/",
+	"appComponents": []
+}

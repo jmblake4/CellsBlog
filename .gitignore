@@ -1,0 +1,11 @@
+.DS_Store
+.sass-cache/
+.tmp
+app/index.html
+app/scripts/app-dist.js
+components/
+dist
+node_modules
+npm-debug.log
+test/bower_components/
+test/temp
